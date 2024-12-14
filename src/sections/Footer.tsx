@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col gap-8 lg:flex-row">
           <div className="flex gap-2 lg:items-center lg:flex-1">
             <Logo className="h-6 w-6" />
-            <div className="font-medium">Cogni</div>
+            <div className="font-medium">AI SEO</div>
           </div>
           <nav className="flex flex-col lg:flex-row gap-5 lg:items-center lg:gap-7 lg:flex-1 lg:justify-center">
             <a href="#" className="text-white/70 hover:text-white text-xs transition md:text-sm">
